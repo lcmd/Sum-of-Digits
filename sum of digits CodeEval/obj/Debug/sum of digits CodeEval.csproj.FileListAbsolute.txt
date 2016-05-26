@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\sum of digits CodeEval\sum of digits CodeEval\bin\Debug\sum of digits CodeEval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\sum of digits CodeEval\sum of digits CodeEval\bin\Debug\sum of digits CodeEval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\sum of digits CodeEval\sum of digits CodeEval\bin\Debug\sum of digits CodeEval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\sum of digits CodeEval\sum of digits CodeEval\obj\Debug\sum of digits CodeEval.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\sum of digits CodeEval\sum of digits CodeEval\obj\Debug\sum of digits CodeEval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\sum of digits CodeEval\sum of digits CodeEval\obj\Debug\sum of digits CodeEval.pdb
